@@ -10,4 +10,4 @@ Coming soon.
 
 ## UX Journal
 
-[Replace with title of journal](j01/README.md)
+[Struggling with In-Ear Monitors (IEMs)](j01/README.md)
