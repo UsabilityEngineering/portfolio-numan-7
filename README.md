@@ -6,7 +6,7 @@
 
 ## UX Team Project
 
-Coming soon.
+[HeartDisease](https://github.com/ChicoState/heartdisease-ux)
 
 ## UX Journal
 
